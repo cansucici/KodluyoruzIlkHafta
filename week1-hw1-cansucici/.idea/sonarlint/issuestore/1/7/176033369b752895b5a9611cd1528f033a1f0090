@@ -1,0 +1,13 @@
+
+e
+java:S1104"PMake renk a static final constant or non-public and provide accessors if needed.(‚¸‡L
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù³
+c	java:S116"ORename this field "hÄ±z" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­À§S
+l
+java:S1104"QMake model a static final constant or non-public and provide accessors if needed.(¢úõşÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿÛü±
+e
+java:S1104"PMake hÄ±z a static final constant or non-public and provide accessors if needed.(­À§S
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áˆÈ
+g
+java:S1104"QMake plaka a static final constant or non-public and provide accessors if needed.(üù¢é

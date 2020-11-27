@@ -1,0 +1,20 @@
+
+D
+java:S1481")Remove this unused "car4" local variable.(‡¿ŠÕüÿÿÿÿ
+D
+java:S1481	")Remove this unused "car1" local variable.(Ç¿Êüÿÿÿÿ
+N
+java:S1854
+"8Remove this useless assignment to local variable "car2".(ŒşšÂ
+?
+java:S1481")Remove this unused "car3" local variable.(ùõ‰«
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿÛü±
+N
+java:S1854"8Remove this useless assignment to local variable "car3".(ùõ‰«
+S
+java:S1854	"8Remove this useless assignment to local variable "car1".(Ç¿Êüÿÿÿÿ
+?
+java:S1481
+")Remove this unused "car2" local variable.(ŒşšÂ
+S
+java:S1854"8Remove this useless assignment to local variable "car4".(‡¿ŠÕüÿÿÿÿ
